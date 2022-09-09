@@ -33,5 +33,4 @@ func main() {
 		z := "Sunday"
 		fmt.Println("Type:", reflect.TypeOf(z), "\n", "Value:", reflect.ValueOf(z))
 	}
-
 }
