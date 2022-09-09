@@ -26,7 +26,6 @@ func odd(ch <-chan int) {
 		fmt.Println("odd:", v)
 	}
 }
-
 func even(ch <-chan int) {
 	for v := range ch {
 		fmt.Println("even:", v)
