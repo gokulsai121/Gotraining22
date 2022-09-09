@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 )
-
 func main() {
 	var a = []int{91, 42, 23, 14, 15, 76, 87, 28, 19, 95}
 	o := make(chan int)
