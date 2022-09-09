@@ -16,3 +16,7 @@ Create a calculator application .Your application should have at lease 2 package
 
 # Assignment 3
 Create a banking application. Your a application should have customer, accounts, transactions(transfer money from 1 account to other, withraw money, deposit money.)
+
+# Assignment 4
+1) Write a code for dynamic type checking using switch and reflect package both
+2) Find even and odd numbers from a list using go routines and channels
