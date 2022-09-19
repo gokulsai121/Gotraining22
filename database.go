@@ -79,7 +79,6 @@ func update(db *sql.DB, i int) {
 		fmt.Println("Successfully updated email")
 	}
 }
-
 func main() {
 	var i, e int
 	db, err := dbconnection()
